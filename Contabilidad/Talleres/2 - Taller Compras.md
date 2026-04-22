@@ -15,6 +15,7 @@ a) El 1 de octubre la empresa compra 500 camisas a un costo de $12.00 c/u y 300 
 b) El día 12 del mes compra 130 cajas de cigarrillos a $15.00 cada caja, con un descuento de 6%, factura 20192, cheque 100.
 
 c) El día 20 se compran 200 cajas de Cervezas Golden a un costo de $4.00 por caja, factura 4093, al contado. Cheque 120.
+
 d) El día 25 de octubre se realiza la devolución de 50 pantalones de caballeros por defectos, según memo 56; la empresa hace ajuste a la cuenta.
 
 e) El día 28 de octubre se compran 100 camisas al contado, factura 3091, a un costo de $40.00 cada una con un descuento de 5%, cheque 360.
